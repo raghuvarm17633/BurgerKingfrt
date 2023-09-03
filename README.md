@@ -51,3 +51,41 @@ Mapping: The project's purpose and basic functionality are mapped to the problem
 
 
 
+
+
+
+
+
+![image](https://github.com/raghuvarm17633/BurgerKingfrt/assets/137690672/5d7201c3-60d3-4259-90d2-fa2c32093c37)
+
+
+
+![image](https://github.com/raghuvarm17633/BurgerKingfrt/assets/137690672/211932a4-378d-40ac-a86f-b9f691c2634e)
+
+
+
+
+![image](https://github.com/raghuvarm17633/BurgerKingfrt/assets/137690672/816099c8-1eb9-4883-a2a7-1abb1e4aef6a)
+
+
+![image](https://github.com/raghuvarm17633/BurgerKingfrt/assets/137690672/5af28b2d-befc-4f88-b103-12d3346c1795)
+
+
+
+![image](https://github.com/raghuvarm17633/BurgerKingfrt/assets/137690672/c60f3fb6-c04a-4e8e-aa81-f9f11227c177)
+
+
+
+
+![image](https://github.com/raghuvarm17633/BurgerKingfrt/assets/137690672/71458d19-23c2-46ba-8c23-eb299d3590c3)
+
+
+![image](https://github.com/raghuvarm17633/BurgerKingfrt/assets/137690672/555c9b41-78eb-45f2-90f2-6789c5f11c6b)
+
+
+
+
+
+
+![image](https://github.com/raghuvarm17633/BurgerKingfrt/assets/137690672/050ac37b-c630-432a-838a-31adf200a92e)
+
