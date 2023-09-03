@@ -30,11 +30,13 @@ Burger King
 
 
 ## Problem Statement/ Opportunity*
-                      Burger King is facing increasing pressure from customers and regulators to reduce its environmental impact. The company's current packaging is made from non-renewable materials and is not recyclable. This problem is important to solve because it is contributing to climate change and pollution. The potential solutions to this problem include developing new packaging that is made from recycled materials or that is biodegradable. The success of this project will be measured by the amount of waste that is saved and the amount of greenhouse gas emissions that are reduced
+
+Burger King is facing increasing pressure from customers and regulators to reduce its environmental impact. The company's current packaging is made from non-renewable materials and is not recyclable. This problem is important to solve because it is contributing to climate change and pollution. The potential solutions to this problem include developing new packaging that is made from recycled materials or that is biodegradable. The success of this project will be measured by the amount of waste that is saved and the amount of greenhouse gas emissions that are reduced
 
 
 # Project Description*
-                                Core idea: To develop a sustainable packaging solution for Burger King restaurants that is made from recycled materials or that is biodegradable.
+
+Core idea: To develop a sustainable packaging solution for Burger King restaurants that is made from recycled materials or that is biodegradable.
 
 Problem: Burger King is facing increasing pressure from customers and regulators to reduce its environmental impact. The company's current packaging is made from non-renewable materials and is not recyclable. This problem is important to solve because it is contributing to climate change and pollution.
 
